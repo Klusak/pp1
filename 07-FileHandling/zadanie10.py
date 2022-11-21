@@ -1,0 +1,5 @@
+file=open('moje_dane.txt','w', encoding='utf-8')
+file_content=file.write("Aleksandra\n")
+file_content=file.write("Kłusak\n")
+file_content=file.write("Uniwesytet Ekonomiczny w Krakowie\n")
+file_content=file.write("Informatyka Stosowana\n")
