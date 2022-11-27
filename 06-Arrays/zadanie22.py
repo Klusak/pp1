@@ -1,5 +1,2 @@
-def f(x):
-    if x%2!=0:
-        return False
-    return True
-print(f(109))
+arr1=[4,36,12,28,9,44,5]
+arr2=[5,1,36]
